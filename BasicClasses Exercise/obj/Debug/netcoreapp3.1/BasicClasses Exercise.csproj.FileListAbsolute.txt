@@ -1,0 +1,13 @@
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\bin\Debug\netcoreapp3.1\BasicClasses Exercise.exe
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\bin\Debug\netcoreapp3.1\BasicClasses Exercise.deps.json
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\bin\Debug\netcoreapp3.1\BasicClasses Exercise.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\bin\Debug\netcoreapp3.1\BasicClasses Exercise.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\bin\Debug\netcoreapp3.1\BasicClasses Exercise.dll
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\bin\Debug\netcoreapp3.1\BasicClasses Exercise.pdb
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.dll
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.pdb
+C:\Users\danie\OneDrive\Desktop\repos\BasicClasses Exercise\BasicClasses Exercise\BasicClasses Exercise\obj\Debug\netcoreapp3.1\BasicClasses Exercise.genruntimeconfig.cache
